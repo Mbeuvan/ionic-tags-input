@@ -1,6 +1,3 @@
-/**
- * Created by hsuanlee on 2017/4/10.
- */
 import { CommonModule } from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
